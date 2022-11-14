@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Shyam</h2>
+<h2>Hi 👋, I'm Shyam.</h2>
 <a href="https://www.linkedin.com/in/shyam-vyas23" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
 
