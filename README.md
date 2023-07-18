@@ -7,6 +7,10 @@
 - Currently learning **Python, Web3**
 - :heart: Open Source Softwares & Tools
 
+### Projects
+
+- [cosmos-devops](https://github.com/shyambin/cosmos-devops)
+
 ### Tools, Languages & Technologies that I'm using on daily basis:
 ---
 **Programming/Scripting Language**:
