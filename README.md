@@ -11,7 +11,7 @@
 
 - [cosmos-devops](https://github.com/shyambin/cosmos-devops)
 
-### Tools, Languages & Technologies that I'm using on daily basis:
+<!-- ### Tools, Languages & Technologies that I'm using on daily basis:
 ---
 **Programming/Scripting Language**:
 
@@ -80,4 +80,4 @@
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyambin)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shyambin)](https://git.io/streak-stats) -->
