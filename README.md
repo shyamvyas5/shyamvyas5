@@ -4,7 +4,7 @@
 
 - I'm working as a **DevSecOps Engineer**
 - Interested in **Cloud Native, Web3**
-- Currently learning **Python, Web3**
+- Currently learning **Python, Golang, Cosmos Blockchain**
 - :heart: Open Source Softwares & Tools
 
 ### Projects
